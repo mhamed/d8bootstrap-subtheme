@@ -1,0 +1,21 @@
+{
+  "name": "starterkits",
+  "version": "0.0.0",
+  "description": "<!-- @file Instructions on how to sub-theme the Drupal Bootstrap base theme using the CDN Starterkit. --> <!-- @defgroup subtheme_cdn --> <!-- @ingroup subtheme --> # CDN Starterkit",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-livereload": "~3.8.1",
+    "gulp-uglifyjs": "~0.6.2",
+    "gulp-sass": "~2.1.1",
+    "gulp-autoprefixer": "~3.1.0",
+    "gulp-sourcemaps": "~1.6.0",
+    "gulp-imagemin": "~2.4.0",
+    "gulp-ruby-sass": "~2.0.6"
+  }
+}
